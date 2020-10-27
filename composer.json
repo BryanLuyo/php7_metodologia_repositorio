@@ -1,0 +1,9 @@
+{
+    "name": "utils/php-7",
+    "autoload": {
+        "psr-4": {
+            "Utils\\": "utils/",
+            "App\\": "app/"
+        }
+    }
+}
